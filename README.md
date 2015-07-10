@@ -4,7 +4,7 @@
 
 Análise sucinta da [folha de pagamento](http://www.dgrh.unicamp.br/remuneracao.pdf) dos funcionários da Unicamp (junho/2015) usando Python e R.
 
-**Python**: processamento do pdf e dados
+**Python**: processamento do pdf e dados;
 **R**: criação do histograma e análise
 
 **Alguns dados** (valores brutos)
